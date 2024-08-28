@@ -1,4 +1,4 @@
-body{
+
     background:-webkit-radial-gradient(circle,#060ae9, #4e3f50);
     background:-moz-radial-gradient(circle,#f6b5ff, #e081ef);
     background:-ms-radial-gradient(circle,#ac1414, #e081ef);
@@ -38,3 +38,35 @@ body{
     border-radius:50%;
     box-shadow:0px 12px 10px 3px rgba(0,0,0, 0.5);
   }
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="shadow">
+    </div>
+    
+    <div id="slider">
+      
+        <div id="allpic">
+          <img src=""/>
+        </div>
+        <div id="allpic">
+          <img src=""/>
+        </div>
+      <div id="allpic">
+          <img src=""/>
+        </div>
+      <div id="allpic">
+          <img src=""/>
+        </div>
+      <div id="allpic">
+          <img src=""/>
+        </div>
+    </div><!-- slider end -->
+</body>
