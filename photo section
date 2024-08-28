@@ -1,3 +1,44 @@
+
+    background:-webkit-radial-gradient(circle,#060ae9, #4e3f50);
+    background:-moz-radial-gradient(circle,#f6b5ff, #e081ef);
+    background:-ms-radial-gradient(circle,#ac1414, #e081ef);
+    background:-o-radial-gradient(circle,#f6b5ff, #e081ef);
+    background:radial-gradient(circle,#f87c77, #e081ef);
+  }
+  #slider{
+    width:630px;
+    border:4px solid #fff;;
+    outline:1px solid #999;
+    height:313px;
+    margin:-315px auto;
+    background:-webkit-radial-gradient(#ffefce, #fcd78d);
+    background:-moz-radial-gradient(#ffefce, #fcd78d);
+    background:-ms-radial-gradient(#ffefce, #fcd78d);
+    background:-o-radial-gradient(#ffefce, #fcd78d);
+    background:radial-gradient(#ffefce, #fcd78d);
+  }
+  #allpic{
+    width:70px;
+    height:300px;
+    background:#ccc;
+    margin:5px 0 0 5px;
+    float:left;
+    transition:all .5s ease-out;
+    overflow:hidden;
+    border:2px solid #fff;;
+    outline:1px solid #999;
+  }
+  #allpic:hover {
+    width:300px;
+  }
+  #shadow{
+    width:600px;
+    height:30px;
+    margin:330px auto 0;
+    border-radius:50%;
+    box-shadow:0px 12px 10px 3px rgba(0,0,0, 0.5);
+  }
+=======
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,4 +70,3 @@
         </div>
     </div><!-- slider end -->
 </body>
-</html>
